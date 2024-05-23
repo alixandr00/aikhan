@@ -156,9 +156,10 @@ export const Tarif = () => {
       <div className="flex cd:flex-nowrap flex-wrap justify-center gap-4 mt-4">
         <a
           data-aos="zoom-in"
-          href="https://wa.me/message/V6TO3PMQPQLIE1"
+          href="http://wa.me/905526727690"
           className="w-[20rem] h-[8vh] bg-[#1dba1d] rounded-[0.5rem] flex justify-center items-center mb-[15rem]"
         >
+          a
           <Whatsapp fill="white" />
         </a>
       </div>

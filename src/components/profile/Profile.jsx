@@ -31,7 +31,7 @@ export const Profile = () => {
             </p>
             <div className="social-icons">
               <a
-                href="https://wa.me/message/V6TO3PMQPQLIE1"
+                href="http://wa.me/905526727690"
                 className="icon icon-telegram"
               >
                 <FaWhatsapp size="30px" />
