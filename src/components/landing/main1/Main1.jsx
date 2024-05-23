@@ -33,7 +33,7 @@ export const Main1 = () => {
   // };
 
   return (
-    <div className="flex flex-col items-center bg-[#000000]">
+    <div className="flex flex-col . items-center bg-[#000000]">
       {/* {userName && <p className="text-white mt-2">{userName}</p>} */}
 
       {/* {!userName ? (
