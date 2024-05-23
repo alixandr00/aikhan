@@ -159,7 +159,6 @@ export const Tarif = () => {
           href="http://wa.me/905526727690"
           className="w-[20rem] h-[8vh] bg-[#1dba1d] rounded-[0.5rem] flex justify-center items-center mb-[15rem]"
         >
-          a
           <Whatsapp fill="white" />
         </a>
       </div>
