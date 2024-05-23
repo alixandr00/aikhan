@@ -2,9 +2,6 @@ import React, { useEffect, useState } from "react";
 import "aos/dist/aos.css";
 import AOS from "aos";
 import "./Main2.css";
-import { Link } from "react-router-dom";
-import { Forma } from "../forma/Forma";
-import { Lessons } from "../lessons/Lessons";
 import { FreeLesson } from "../../freelesson/FreeLesson";
 
 export const Main2 = () => {
